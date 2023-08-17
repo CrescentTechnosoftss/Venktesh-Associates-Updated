@@ -1,0 +1,1 @@
+@media print{#divPrintHeader{display:block!important}#tblNonPaidInvoice tbody tr td:nth-child(11),#tblNonPaidInvoice tbody tr th:nth-child(11),#tblNonPaidInvoice thead tr td:nth-child(11),#tblNonPaidInvoice thead tr th:nth-child(11),#toast-container{display:none}}
